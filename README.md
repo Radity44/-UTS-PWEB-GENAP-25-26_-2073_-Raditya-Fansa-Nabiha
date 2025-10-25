@@ -139,7 +139,7 @@ Menentukan tema warna biru langit, mengatur posisi navbar dan footer, serta mena
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/[username]/UTS_PWEB_[NIM].git
+   git clone [https://github.com/[username]/UTS_PWEB_[NIM].git](https://github.com/Radity44/-UTS-PWEB-GENAP-25-26_-2073_-Raditya-Fansa-Nabiha.git)
 2. Masuk ke folder project:
     cd  UTS_PWEB_To_Do_List
 
@@ -150,7 +150,7 @@ Buka di browser:
 
 http://127.0.0.1:8000
 
-👨‍💻 Pengembang
+👨‍💻 Yang Membuat
 
 Nama: Raditya Dwi Putra
 NIM: 242410102073
