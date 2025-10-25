@@ -1,4 +1,4 @@
-# 🗒️ UTS PWEB 25/26 — MyRencana (To-Do List)
+# 🗒️ UTS PWEB 25/26 — MyRencanaKu (To-Do List)
 
 ## 📌 Deskripsi Singkat
 **MyRencana** adalah website *To-Do List sederhana* yang dibuat menggunakan **Laravel 12** tanpa database, sesuai dengan ketentuan UTS Praktikum Pemrograman Web.  
@@ -141,7 +141,7 @@ Menentukan tema warna biru langit, mengatur posisi navbar dan footer, serta mena
    ```bash
    git clone https://github.com/[username]/UTS_PWEB_[NIM].git
 2. Masuk ke folder project:
-    cd UTS_PWEB_[NIM]
+    cd  UTS_PWEB_To_Do_List
 
 3. Jalankan server lokal Laravel:
     php artisan serve
